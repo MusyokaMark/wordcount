@@ -1,0 +1,14 @@
+.body{
+    background-color: azure;
+}
+.text{
+    background-color: white;
+} .text textarea{
+    height: 70%;
+    width: 100%;
+}
+.botton{
+    display: flex;
+    justify-content: center;
+    
+}
